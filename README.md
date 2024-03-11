@@ -17,3 +17,15 @@
    <a href="https://github.com/romankh3/github-readme-stats">
        <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=romankh3&layout=compact"/></a>
 </p>
+
+-------------------------
+socials:
+ -
+  name: twitter
+  url: https://twitter.com/MY_FA_BLOG_MIRA
+ -
+  name: instagram
+  url: https://instagram.com/MY_FA_BLOG_MIRA
+ -
+  name: github
+  url: https://github.com/MY_FA_BLOG_MIRA
