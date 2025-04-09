@@ -11,7 +11,7 @@
     https://faradars.org/courses/project-oriented-android-making-a-video-sharing-application-with-api-fvprm011
     https://faradars.org/courses/building-api-using-express-js-and-node-js-fvjs103
 
-## 🌐 Socials:
+## 🌐 Socials: 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]([https://instagram.com/mah_rhr](https://www.instagram.com/maah_jahan?igsh=MzRlODBiNWFlZA==)) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahdieh-r-a63754210) 
 
 # 💻 Tech Stack:
